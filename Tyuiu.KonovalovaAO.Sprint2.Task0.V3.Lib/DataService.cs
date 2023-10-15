@@ -20,7 +20,6 @@ namespace Tyuiu.KonovalovaAO.Sprint2.Task0.V3.Lib
             rez[4] = x <= y - 100; 
             rez[5] = x + 100 >= y; 
             return rez;
-
         }
     }
 }

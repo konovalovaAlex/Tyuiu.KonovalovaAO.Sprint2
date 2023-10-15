@@ -12,6 +12,7 @@ namespace Tyuiu.KonovalovaAO.Sprint2.Task0.V3
     {
         static void Main(string[] args)
         {
+
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнила Коновалова А. О. /СМАРТб-23-1 ";
             Console.WriteLine("**************************************************************************");
