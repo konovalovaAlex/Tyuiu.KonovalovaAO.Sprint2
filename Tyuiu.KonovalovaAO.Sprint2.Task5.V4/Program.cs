@@ -14,7 +14,7 @@ namespace Tyuiu.KonovalovaAO.Sprint2.Task5.V4
             Console.Title = "Спринт #2 | Выполнила Коновалова А. О. /СМАРТб-23-1 ";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #2                                                              *");
-            Console.WriteLine("* Тема: Тернарный оператор                                               *");
+            Console.WriteLine("* Тема: Оператор switchФайл                                             *");
             Console.WriteLine("* Задание #5                                                             *");
             Console.WriteLine("* Вариант #4                                                             *");
             Console.WriteLine("* выполнила: Коновалова Александра Олеговна | СМАРТб-23-1                *");
