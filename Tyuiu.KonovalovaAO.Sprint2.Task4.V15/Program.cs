@@ -19,6 +19,7 @@ namespace Tyuiu.KonovalovaAO.Sprint2.Task4.V15
             Console.WriteLine("* Вариант #15                                                            *");
             Console.WriteLine("* выполнила: Коновалова Александра Олеговна | СМАРТб-23-1                *");
             Console.WriteLine("**************************************************************************");
+            Console.WriteLine("* УСЛОВИЕ:                                                               *");
             Console.WriteLine("* Написать программу, которая вычисляет требуемое значение с             *");
             Console.WriteLine("* использованием тернарного оператора, где пользователь вводит значение  *");
             Console.WriteLine("* переменной X, Y с клавиатуры, если sqrt(x) / 2 > sqrt(y) - 20, то      *");
