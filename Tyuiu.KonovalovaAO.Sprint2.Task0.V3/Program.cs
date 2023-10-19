@@ -14,7 +14,7 @@ namespace Tyuiu.KonovalovaAO.Sprint2.Task0.V3
         {
 
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнила Коновалова А. О. /СМАРТб-23-1 ";
+            Console.Title = "Спринт #2 | Выполнила Коновалова А. О. /СМАРТб-23-1 ";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #2                                                              *");
             Console.WriteLine("* Тема: Операции сравнения                                               *");
