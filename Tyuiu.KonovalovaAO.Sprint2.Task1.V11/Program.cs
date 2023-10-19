@@ -12,7 +12,7 @@ namespace Tyuiu.KonovalovaAO.Sprint2.Task1.V11
         {
 
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнила Коновалова А. О. /СМАРТб-23-1 ";
+            Console.Title = "Спринт #2 | Выполнила Коновалова А. О. /СМАРТб-23-1 ";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #2                                                              *");
             Console.WriteLine("* Тема: Логические операции                                              *");
